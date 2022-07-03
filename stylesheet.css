@@ -3,10 +3,23 @@ body {
     flex-direction: column;
 }
 
+header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#headerlogo {
+   
+}
+
 a {
     text-decoration: none;
 }
 
 ul {
     list-style: none;
+    display: flex;
+    margin-left: auto;
+    column-gap: 20px;
+    
 }
