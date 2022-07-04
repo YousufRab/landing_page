@@ -74,6 +74,10 @@ button {
 .roundimg {
     width: 100px;
     height: 100px;
+    border-radius: 10px;
+    border: 6px solid;
+    border-color: #3882f6;
+    background-color: #3882f6;
 }
 
 .randinfo {
