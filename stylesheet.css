@@ -34,3 +34,7 @@ h1 {
     font-weight: 900;
     font-size: 75px;
 }
+
+.hero {
+    display: flex;
+}
