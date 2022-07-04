@@ -40,12 +40,14 @@ h1 {
 .hero {
     display: flex;
     background-color: #1F2937;
+    padding-top: 80px;
 }
 
 #herotext {
     font-size: 18px;
     color: #e5e7eb;
     margin-left: 200px;
+    font-weight:500;
 }
 
 #lotus {
@@ -59,8 +61,23 @@ button {
     font-size: 20px;
     padding: 8px 24px 8px 24px;
     color: white;
+    border-radius: 8px;
+    font-weight: 800;
+    
 }
 
 #herobutton {
     margin-left: 200px;
+    border: 0;
+}
+
+.roundimg {
+    width: 100px;
+    height: 100px;
+}
+
+.randinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
