@@ -34,6 +34,7 @@ h1 {
     font-weight: 900;
     font-size: 48px;
     color: #f9faf8;
+    margin-left: 200px;
 }
 
 .hero {
@@ -51,4 +52,8 @@ h1 {
     width: 500px;
     height: 200px;
     padding: 50px;
+}
+
+#herobutton {
+    margin-left: 200px;
 }
