@@ -44,4 +44,11 @@ h1 {
 #herotext {
     font-size: 18px;
     color: #e5e7eb;
+    margin-left: 200px;
+}
+
+#lotus {
+    width: 500px;
+    height: 200px;
+    padding: 50px;
 }
