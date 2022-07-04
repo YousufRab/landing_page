@@ -54,6 +54,13 @@ h1 {
     padding: 50px;
 }
 
+button {
+    background-color: #3882f6;
+    font-size: 20px;
+    padding: 8px 24px 8px 24px;
+    color: white;
+}
+
 #herobutton {
     margin-left: 200px;
 }
